@@ -1,4 +1,4 @@
 function calculateLateFee(daysLate) {
- return daysLate * 500;
+ return Math.max(0, daysLate) * 500;
 }
 module.exports = { calculateLateFee };
