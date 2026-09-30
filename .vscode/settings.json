@@ -1,0 +1,6 @@
+{
+    "chat.utilitySmallModel": "",
+    "github.copilot.chat.commitMessageGeneration.instructions": [
+        { "file": ".github/commit-message.md" }
+    ]
+}

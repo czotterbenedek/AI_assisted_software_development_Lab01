@@ -1,0 +1,1 @@
+The commit subject line must be at most 60 characters. Do not include jokes.
